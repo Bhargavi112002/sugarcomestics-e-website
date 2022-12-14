@@ -1,0 +1,397 @@
+
+
+.div-one{
+    width: 120%;
+    height: 130px;
+    background: #000;
+    margin-bottom: 10%;
+    
+}
+.topic-name{
+    font-size: medium;
+    color: #fff;
+    margin-left: 35%;
+
+}
+.logo{
+    height: 30px;
+     margin: 20px;
+     width: 5%;
+     color: #fff;
+    /* margin: -30px 30px 0; */
+}
+.heading{
+    color: white;
+    margin: -4%;
+    margin-left: 6%;
+}
+.search-box{
+    position: relative;
+    max-width: 500px;
+    width: 50%;
+    height: 35px;
+    display: flex;
+     margin-left: 17%;
+     margin-top: 1%;
+     border: 3px solid white;
+     background: #000;
+     
+    
+}
+.search-bar{
+    width: 85%;
+    height: 100%;
+    border: 2px solid #dbdbdb;
+    padding: 0 20px;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+.search-btn{
+    width: 15%;
+    height: 100%;
+    background: #f0f0f0;
+    border: 2px solid #dbdbdb;
+    padding: 5px 0;
+    border-left: none;
+    cursor: pointer;
+    box-shadow: #f0f0f0;
+
+}
+.search-btn img{
+    height: 100%;
+}
+.user-options{
+   margin-left: 60%;
+  
+}
+.icon{
+    width: 7%;
+    height: 10%px;
+    margin-right: 20%;
+    margin-left: -15%;
+    margin-top: -25%;
+    
+    
+}
+.text{
+    color: white;
+    margin: -5%;
+    margin-left:-5%;
+    
+}
+.icon2{
+    height: 40px;
+    width: 20px;
+    margin-left: 70%;
+    border-radius: 20px;
+    
+}
+.shop{
+    height: 40px;
+    width: 20px;
+    border-radius: 20px;
+    margin-left: 2%;
+}
+.set{
+    height: 40px;
+    width: 20px;
+    border-radius: 20px;
+    margin-left: 2%;
+}
+.filters{
+    
+    left: 250px;
+    top: 60px;
+    width: 100%;
+    height: 60px;
+    background:rgb(20,20,20);
+    border-top: 1px solid  #dbdbdb;
+    border-bottom: 1px solid #dbdbdb;
+    padding: 0 20px;
+    display: flex;   
+}
+.h4tage1{
+    color: white;
+}
+.h4tage2{
+    color: white;
+    margin-left: 2%;
+}
+.h4tage3{
+    color: white;
+    margin-left: 2%;
+}
+.h4tage4{
+    color: white;
+    margin-left: 2%;
+}
+.h4tage5{
+    color: white;
+    margin-left: 2%;
+}
+.h4tage6{
+    color: white;
+    margin-left: 2%;
+}.h4tage7{
+    color: white;
+    margin-left: 2%;
+}
+.photo{
+    margin-top: -6%;
+    width: 120%;
+    height: 80;
+
+} 
+.big-div{
+    width:120%;
+    height: 600px;
+    margin-top: 5%;
+    
+    
+}
+.bluepic{
+    width: 100%;
+    height: 600px;
+}
+.sell{
+    font-weight: 200;
+    font-size: larger;
+    color: #fff;
+    margin-left: 40%;
+    margin-top: -40%;
+}
+.care{
+    
+     width: 200px;
+     height: 130px;
+     margin-left: 30px;
+     margin-top: -70%;
+     margin-bottom: 30%;
+     cursor: pointer;
+     
+
+    
+}
+.skin{
+    width: 200px;
+     height: 130px;
+     margin-left: 30px;
+     margin-top: -70%;
+     margin-bottom: 30%;
+     cursor: pointer;
+     
+}
+.product{
+    width: 200px;
+    height: 130px;
+    margin-left: 30px;
+    margin-top: -70%;
+    margin-bottom: 30%;
+    cursor: pointer;
+
+}
+.nice{
+    width: 200px;
+    height: 130px;
+    margin-left: 30px;
+    margin-top: -70%;
+    margin-bottom: 30%;
+    cursor: pointer;
+
+
+}
+.newone{
+    width: 200px;
+    height: 130px;
+    margin-left: 30px;
+    margin-top: -70%;
+    margin-bottom: 30%;
+    cursor: pointer;
+
+
+}
+.some{
+    width: 200px;
+    height: 130px;
+    margin-left: 30px;
+     margin-top: -40%;
+     margin-bottom: 20%;
+    cursor: pointer;
+}
+.special{
+
+    width: 200px;
+    height: 130px;
+    margin-left: 30px;
+     margin-top: -40%;
+     margin-bottom: 20%;
+    cursor: pointer;
+}
+.thing{
+    width: 200px;
+    height: 130px;
+    margin-left: 30px;
+     margin-top: -40%;
+     margin-bottom: 20%;
+    cursor: pointer;
+
+}
+.best{
+    width: 200px;
+    height: 130px;
+    margin-left: 30px;
+     margin-top: -40%;
+     margin-bottom: 20%;
+    cursor: pointer;
+
+
+}
+.first{
+    width: 200px;
+    height: 130px;
+    margin-left: 30px;
+     margin-top: -40%;
+     margin-bottom: 20%;
+    cursor: pointer;
+
+
+}
+.second{
+    width: 200px;
+    height: 130px;
+    margin-left: 30px;
+     margin-top: -50%;
+     margin-bottom: 8%;
+    cursor: pointer;
+
+}
+.third{
+    width: 200px;
+    height: 130px;
+    margin-left: 30px;
+     margin-top: -50%;
+     margin-bottom: 8%;
+    cursor: pointer;
+
+
+}
+.four{
+    width: 200px;
+    height: 130px;
+    margin-left: 30px;
+     margin-top: -50%;
+     margin-bottom: 8%;
+    cursor: pointer;
+
+
+}
+.five{
+    width: 200px;
+    height: 130px;
+    margin-left: 30px;
+     margin-top: -50%;
+     margin-bottom: 8%;
+    cursor: pointer;
+
+}
+.six{
+    width: 200px;
+    height: 130px;
+    margin-left: 30px;
+     margin-top: -50%;
+     margin-bottom: 8%;
+    cursor: pointer;
+
+}
+.small-div{
+    width: 120%;
+    height: 500px;
+    background:black;
+}
+.h5tag{
+    font-weight: 200;
+    font-size: larger;
+    color: blue;
+    margin-left: 40%;
+    
+}
+.seven{
+    width: 500px;
+    height: 430px;
+    margin-left: 5%;
+    border-radius: 5%;
+    
+    
+
+}
+.eight{
+    width: 500px;
+    height: 430px;
+    margin-left: 5%;
+    border-radius: 5%;
+    margin-right: 2%;
+
+}
+.middle-div{
+    width: 120%;
+    height: 200px;
+    background: pink;
+}
+.h3tag{
+    font-weight: 200;
+    font-size: larger;
+    color: blue;
+    margin-left: 40%;
+
+}
+.nine{
+    width:350px;
+    height: 60%;
+    margin-left: 1%;
+    border-radius: 5%;
+
+}
+.ten{
+    width:350px;
+    height: 60%;
+    margin-left: 6%;
+    border-radius: 5%;
+
+}
+.eleven{
+    width:350px;
+    height: 60%;
+    margin-left: 5%;
+    border-radius:5% ;
+
+}
+.back-div{
+    width: 100%;
+    height: 500px;
+    background: pink;
+    margin-top: 5%;
+
+}
+.lager{
+    text-align: center;
+    font-weight: 100;
+    color: aqua;
+}
+.imge{
+    width: 80%;
+    height: 400px;
+    margin: 10%;
+    margin-top: -10px;
+    border-radius: 2%;
+}
+/* .frd{
+    font-size: large;
+    font-weight: 4px;
+    color: pink;
+} */
+#bestfrd {
+    width: 20px;
+    height: 300px;
+    color: red;
+}
